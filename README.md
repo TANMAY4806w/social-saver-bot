@@ -10,12 +10,25 @@ Social Saver is a bot that lets you save links from Instagram, YouTube, Twitter 
 ## Table of contents
 
 - [Features](#features)
+- [System Architecture](#system-architecture)
 - [Setup](#setup)
 - [Usage](#usage)
 - [Deployment](#deployment)
 - [Tech stack](#tech-stack)
 - [Contributing](#contributing)
 - [License](#license)
+
+## System Architecture
+
+### 📊 System Flow Diagram
+See the complete user journey from sending a WhatsApp message to viewing saved content:
+
+**[View System Flow Diagram →](diagrams/SYSTEM_FLOW.md)**
+
+### 🏗️ Architecture Diagram
+Understand how all components interact:
+
+**[View Architecture Diagram →](diagrams/ARCHITECTURE.md)**
 
 ## Features
 
