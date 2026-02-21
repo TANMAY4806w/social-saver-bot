@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Environment
+.env
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Docs / internal files
+PRD.md
+UI_rules.md
+
+# Test / debug scripts
+test_*.py
+check_*.py
+reprocess.py
+
+# SSL certs (use DATABASE_URL with sslmode=require on Render)
+ca.pem
+*.pem
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
